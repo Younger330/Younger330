@@ -12,6 +12,11 @@
 ```
 
 
+## My daily
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 ## My Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=somnusyyy)

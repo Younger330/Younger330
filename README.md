@@ -15,8 +15,7 @@
 ## Coding Time
 <!--START_SECTION:waka-->
 ```text
-C      3 hrs 36 mins   ████████████████████████▒   97.17 % 
-JSON   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+C   1 hr 50 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

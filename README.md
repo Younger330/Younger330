@@ -11,17 +11,6 @@
 * Interests: OS, Coding
 ```
 
-
-## Coding Time
-<!--START_SECTION:waka-->
-```text
-C       2 hrs 48 mins   ████████████████████████▒   96.82 % 
-C++     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-```
-<!--END_SECTION:waka-->
-
-
-
 ## My Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=somnusyyy)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=somnusyyy&hide=ipynb,html&layout=compact)

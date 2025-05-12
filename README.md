@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zhengyang Xu
 
-📧 Email: [fy1999xu@gmail.com](mailto:fy1999xu@gmail.com)  
+📧 Email: [xuzhengyang1999@qq.com](mailto:xuzhengyang1999@qq.com)  
 🐙 GitHub: [Younger330](https://github.com/Younger330)  
 📚 Google Scholar: [Zhengyang Xu](https://scholar.google.com/citations?user=c-PDzPEAAAAJ&hl=en)  
 

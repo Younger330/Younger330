@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Zhengyang Xu
 
+🎯 *Looking for PhD opportunities in EU / US / AU / HK*
+
+
 📧 Email: [xuzhengyang1999@qq.com](mailto:xuzhengyang1999@qq.com)  
 🐙 GitHub: [Younger330](https://github.com/Younger330)  
 📚 Google Scholar: [Zhengyang Xu](https://scholar.google.com/citations?user=c-PDzPEAAAAJ&hl=en)  
@@ -9,7 +12,7 @@
 ## 🎓 Education
 
 **Northwest University**, Xi’an, China  
-*Master of Computer Science* (09/2022 – present)  
+*Master of Computer Science* (09/2022 – 06/2025)  
 GPA: **3.53** (Top 30%)  
 - Courses: English Academic Paper Writing, Machine Learning, Multiscale Image Analysis, Multimodal Image Analysis  
 - Scholarships: China National Scholarship, Second Prize (2022/23), Third Prize (2023/24, 2024/25)

@@ -79,7 +79,7 @@ Medical images · Weak supervision · Foundation models · Multimodal models · 
 - Clinically oriented project developed with clinical doctors, delivering results aligned with medical expectations.
 
 
-### 🔹 Bone Marrow Cell Classification (07/2023–05/2024)
+### 🔹 Bone Marrow Cell Classification (07/2023–05/2024) [[code link]](https://github.com/Younger330/YOLOv9-Cell-Detection) 
 *Core Member*  
 - Employed YOLOv9 to detect 43 classes of Bone Marrow cells derived from both internal and external validation datasets. 
 - Utilized the Copy-Paste data augmentation to address the scarcity of detectable cells in each image and implemented the Reinhard algorithm to address the significant style variations in external validation datasets.

@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Zhengyang Xu
 
-🎯 *Looking for PhD opportunities in EU / US / AU / HK*
-
-
-📧 Email: [xuzhengyang1999@qq.com](mailto:xuzhengyang1999@qq.com)  
 🐙 GitHub: [Younger330](https://github.com/Younger330)  
 📚 Google Scholar: [Zhengyang Xu](https://scholar.google.com/citations?user=c-PDzPEAAAAJ&hl=en)  
 
@@ -85,14 +81,6 @@ Medical images · Weak supervision · Foundation models · Multimodal models · 
 - Utilized the Copy-Paste data augmentation to address the scarcity of detectable cells in each image and implemented the Reinhard algorithm to address the significant style variations in external validation datasets.
 
 
----
 
-## 💡 Skills
-
-- **Languages**: English (IELTS 6.5), Chinese (Native)
-- **Programming**: Python (PyTorch, OpenCV, Matplotlib, NumPy), Matlab  
-- **Tools**: Git, LaTeX
 
 ---
-
-*Thanks for visiting my GitHub! Feel free to connect with me via email or explore my projects.*
